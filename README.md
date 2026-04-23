@@ -121,13 +121,13 @@ echo "<h1>Hello from my server 🚀</h1>" | sudo tee /var/www/html/index.html
 
 ### 🔹 Load Balancer Configuration
 
-![ALB Config](1_images/3_alb-config.png)
+![ALB Config](images/3_alb-config.png)
 
 ---
 
 ### 🔹 ⭐ Final Output (ALB Working)
 
-![Final Output](1_images/4_final-output.png)
+![Final Output](images/4_final-output.png)
 
 ---
 
