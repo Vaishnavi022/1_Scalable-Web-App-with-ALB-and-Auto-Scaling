@@ -109,7 +109,7 @@ echo "<h1>Hello from my server 🚀</h1>" | sudo tee /var/www/html/index.html
 
 ### 🔹 EC2 Instance Details
 
-![EC2 Instance](images/1_ec2-instance.png)
+![EC2 Instance](images/1_ec2-instance-setup.png)
 
 ---
 
