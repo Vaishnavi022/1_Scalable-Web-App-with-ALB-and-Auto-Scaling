@@ -115,7 +115,7 @@ echo "<h1>Hello from my server 🚀</h1>" | sudo tee /var/www/html/index.html
 
 ### 🔹 EC2 Direct Output (Before ALB)
 
-![EC2 Output](images/2_ec2-output.png)
+![EC2 Output](images/2_ec2-custom-webpage-output.png)
 
 ---
 
